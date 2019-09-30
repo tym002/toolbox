@@ -6,6 +6,11 @@ Created on Tue May  7 13:00:30 2019
 @author: tianyuma
 """
 
+'''
+This script provides different ways to visualize data and results 
+'''
+
+
 import numpy as np 
 import matplotlib.pyplot as plt
 import os
